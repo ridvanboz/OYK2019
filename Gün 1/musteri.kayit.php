@@ -20,7 +20,7 @@
 <p>
   <img src="kayit.png" height="42" width="42" />
 </p>
-<form action="/action_page.php">
+<form method="post">
 
 <p color = "red"><input name="isim" type="text" placeholder="Adınızı girin"/></p>
 <p><input name="isim" type="text" placeholder="Soyadınızı girin"/></p>
