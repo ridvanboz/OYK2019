@@ -9,7 +9,7 @@ $sozler  = array("Bir elin nesi var" ,
           "Sora sora bağdat bulunur",
           "Ak akçe kara gün içindir");
 
-
+//deneme
 for($i=1; $i<=10; $i++)
 {
   $Soz_No = rand(0,count($sozler)-1);
